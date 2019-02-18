@@ -1,0 +1,4 @@
+/home/i62macaf/Desktop/Luque_Cordoba_y_Maestre_Carmona/CMakeFiles/rebuild_cache.dir
+/home/i62macaf/Desktop/Luque_Cordoba_y_Maestre_Carmona/CMakeFiles/edit_cache.dir
+/home/i62macaf/Desktop/Luque_Cordoba_y_Maestre_Carmona/CMakeFiles/ServidorB.dir
+/home/i62macaf/Desktop/Luque_Cordoba_y_Maestre_Carmona/CMakeFiles/ClienteB.dir
